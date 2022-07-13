@@ -1,0 +1,39 @@
+Python notes(09_07)
+Python is a general purpose high level programming language. It was developed by guido van rossum in 1989 at netherlands in national research of institute and avaliable to public in 1991. The official date of birth for python in feb 20th 1991. 
+
+Python is simple and easy to learn. very less code 
+Easiness of python examples
+1. 
+a=10
+b=20
+c =30 if a>b else 40
+
+print("hello world")
+
+the name python was derived from famous comedy circus show, the complete monty's python circus show
+
+python is an allrounder
+1. python borrowed functional features from c
+2. python borrowd object oriented features from c++
+3. python borrowed scripting features from perl, shell
+so python is an all rounder
+
+where we can use python:
+ we can use python in desktop applications, data science , and machine learning
+
+Features of python:
+1. simple and easy to learn
+2. free ware and open source
+3. high level programming language
+4. platform independent
+5. portablity
+6. both procedure oriented and object oriented
+7. embedded
+8. extensible
+9. extensive library
+limitations of python:
+1. mobile applications
+2. banking applications
+
+
+python identifiers:
