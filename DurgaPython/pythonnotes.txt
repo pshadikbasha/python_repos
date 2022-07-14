@@ -37,3 +37,31 @@ limitations of python:
 
 
 python identifiers:
+A name in python program is called an identifier.
+Rules to define identfiers:
+1. Identifiers should not start with numbers
+2. no length limit for identifiers
+3. keywords shoudl not used as identifiers
+4. identifiers are case sensitive
+5. allowed only a-z, A-z, 0 to 9 and underscore(_)
+
+
+Reserved keywords in python:
+import keyword
+print(keyword.kwlist)
+
+Data Types introduction in python:
+1. int
+2. float
+3. complex
+4. str
+5. boolean
+6. list
+7. tuple
+8. set
+9. frozenset
+10. dict
+11. range
+12. None
+13. byte
+14. bytesArray
